@@ -76,10 +76,5 @@ span{
     bottom: 0;
     z-index: -1;
     transition: 0.5s;
-}
-button:hover span{
-    width: 100%;
-}
-button:hover{
-    border: none;
+
 }
